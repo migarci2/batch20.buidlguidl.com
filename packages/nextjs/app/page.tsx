@@ -13,7 +13,7 @@ const Home: NextPage = () => {
             <span className="block text-2xl mb-2">Welcome to</span>
             <span className="block text-4xl font-bold">Batch 20! 🎉</span>
           </h1>
-          <p className="text-center text-lg">Shipping `{">"}` talking</p>
+          <p className="text-center text-lg">Shipping {">"} talking</p>
           <p className="text-lg flex gap-2 justify-center">
             <span className="font-bold">Checked in builders count:</span>
             <span>To Be Implemented</span>
